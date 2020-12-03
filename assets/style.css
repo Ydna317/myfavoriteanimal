@@ -1,12 +1,28 @@
 body {
     background-color: teal;
     border: solid black;
+    padding: 300px;
+    text-align: center;
+
+
 }
 
-h1 {
-    border: solid black;
+h1 {    
+    border: dashed black;
+    color: orange;
+    font-size: 75px;
     height: 400px;
     width: 400px;
     text-align: center;
     margin-left: 400px;
+}
+
+h2 {
+    border: solid black;
+    color: orange;
+    font-size: 50px;
+}
+
+h3 {
+
 }
