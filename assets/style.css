@@ -1,0 +1,12 @@
+body {
+    background-color: teal;
+    border: solid black;
+}
+
+h1 {
+    border: solid black;
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    margin-left: 400px;
+}
